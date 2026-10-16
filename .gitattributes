@@ -1,0 +1,3 @@
+# GitHub's release source archives honor export-ignore.
+# Exclude everything so only the released DMG is downloadable.
+* export-ignore
